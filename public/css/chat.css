@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#chat-container {
+    float: right;
+    height: 40vh;
+    width: 35vw;
+    border-style: solid;
+    margin-top: 11vh;
+}
+
+#chat-input {
+    float: right;
+    height: 5vh;
+    width: 35vw;
+    resize: none;
+    margin-top: 1em;
+}
